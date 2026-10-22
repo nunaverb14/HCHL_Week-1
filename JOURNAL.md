@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-11T03:45:07.299Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvl885s01jf01py2odimzsn). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > An interactvie device with a fun personality, built for playing games.
 
